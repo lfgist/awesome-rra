@@ -13,21 +13,29 @@ _Inspired by [awesome lists](https://github.com/sindresorhus/awesome)._
 
 ## Books
 
-* Principia Discordia
+* _Accelerando_, by Stross, Charles
+* _American Gods_, by Gaiman, Neil
+* _The Antichrist_, by Nietzsche, Friedrich
+* _Beyond Good and Evil_, by Nietzsche, Friedrich
+* _Critique of Pure Reason_, by Kant, Immanuel
+* _Magic: History, Theory, and Practice_
+* _Principia Discordia_, by Hill, Greg
+* _The Holy Qur'an_
+* _Thus Spoke Zarathustra_, by Nietzsche, Friedrich
 
 ## Anime
 
-* Black Clover
-* Dragon Ball Super
-* Dragon Ball Z
-* Ghost in the Shell
-* Naruto Shippuden
-* Neon Genesis Evangelion
-* Psycho Pass
-* Vinland Saga
+* _Black Clover_
+* _Dragon Ball Super_
+* _Dragon Ball Z_
+* _Ghost in the Shell_
+* _Naruto Shippuden_
+* _Neon Genesis Evangelion_
+* _Psycho Pass_
+* _Vinland Saga_
 
 ## Manga
 
-* Berserk
+* _Berserk_
 
 ## Video Games
