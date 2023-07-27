@@ -41,5 +41,6 @@ _Inspired by [awesome lists](https://github.com/sindresorhus/awesome)._
 ## Video Games
 
 * the one with sonic
+* _Fallout: New Vegas_
 * _Spider-Man: Miles Morales_
 * _The Elder Scrolls Online: Tamriel Unlimited_
