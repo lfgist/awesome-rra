@@ -43,3 +43,4 @@ _Inspired by [awesome lists](https://github.com/sindresorhus/awesome)._
 * the one with sonic
 * _Spider-Man: Miles Morales_
 * _The Elder Scrolls Online: Tamriel Unlimited_
+* _Death Stranding_
