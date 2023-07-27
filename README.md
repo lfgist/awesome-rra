@@ -39,3 +39,7 @@ _Inspired by [awesome lists](https://github.com/sindresorhus/awesome)._
 * _Berserk_
 
 ## Video Games
+
+* the one with sonic
+* _Spider-Man: Miles Morales_
+* _The Elder Scrolls Online: Tamriel Unlimited_
