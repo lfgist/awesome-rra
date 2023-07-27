@@ -18,7 +18,7 @@ _Inspired by [awesome lists](https://github.com/sindresorhus/awesome)._
 * _The Antichrist_, by Nietzsche, Friedrich
 * _Beyond Good and Evil_, by Nietzsche, Friedrich
 * _Critique of Pure Reason_, by Kant, Immanuel
-* _Magic: History, Theory, and Practice_
+* _Magic: History, Theory, and Practice_, by Schertel, Ernst
 * _Principia Discordia_, by Hill, Greg
 * _The Holy Qur'an_
 * _Thus Spoke Zarathustra_, by Nietzsche, Friedrich
