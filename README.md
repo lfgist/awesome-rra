@@ -9,6 +9,7 @@ _Inspired by [awesome lists](https://github.com/sindresorhus/awesome)._
 * [Books](#books)
 * [Anime](#anime)
 * [Manga](#manga)
+* [Comic Books](#comic-books)
 * [Video Games](#video-games)
 
 ## Books
@@ -17,6 +18,7 @@ _Inspired by [awesome lists](https://github.com/sindresorhus/awesome)._
 * _American Gods_, by Gaiman, Neil
 * _The Antichrist_, by Nietzsche, Friedrich
 * _Beyond Good and Evil_, by Nietzsche, Friedrich
+* _Writings 1997-2003_, by CCRU
 * _Critique of Pure Reason_, by Kant, Immanuel
 * _Magic: History, Theory, and Practice_, by Schertel, Ernst
 * _Principia Discordia_, by Hill, Greg
@@ -37,6 +39,11 @@ _Inspired by [awesome lists](https://github.com/sindresorhus/awesome)._
 ## Manga
 
 * _Berserk_
+
+## Comic Books
+
+* _Injection_, by Ellis, Warren
+* _The Invisibles_, by Morrison, Grant
 
 ## Video Games
 
